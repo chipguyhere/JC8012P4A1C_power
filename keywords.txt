@@ -1,0 +1,17 @@
+#######################################
+# Syntax Coloring Map For chipguy_JC8012P4A1C_power
+#######################################
+
+chipguy_JC8012P4A1C_power	KEYWORD1
+
+begin	KEYWORD2
+getBatteryVoltage	KEYWORD2
+getBatteryPercent	KEYWORD2
+wasAwakenedFromDeepSleep	KEYWORD2
+deepSleep	KEYWORD2
+shutdown	KEYWORD2
+
+power	KEYWORD2
+
+BATTERY_ADC_PIN	LITERAL1
+WAKE_CAPABLE_HEADER_PINS	LITERAL1
